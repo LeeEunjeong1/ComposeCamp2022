@@ -1,6 +1,5 @@
 package com.codelab.theming.ui.start.theme
 
-import android.graphics.LightingColorFilter
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.darkColors
